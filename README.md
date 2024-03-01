@@ -1,19 +1,5 @@
 # p12-entrepag-6I
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/HiramJJG/p12-entrepag-6I/assets/144726165/b746df95-7dd9-44d0-a3a6-8d0345b55b87)
+![image](https://github.com/HiramJJG/p12-entrepag-6I/assets/144726165/f444e1a5-c13d-4c5b-bc20-ffcc357a8c53)
+https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
